@@ -4,7 +4,7 @@ Author: Jackie Lin
 
 ##Description
 
-*A compiler for a tiny programming language(PL/O). In which the compiler will generate code for a virutal machine. 
+* A compiler for a tiny programming language(PL/O). In which the compiler will generate code for a virutal machine. 
 
 * The components of these compilers consists of our Lexical Analyzer/Scanner, Parser/Code Generator, and Virtual Machine
 
@@ -12,7 +12,7 @@ Author: Jackie Lin
 
 * How to run the program
 
-*TO COMPILE
+TO COMPILE
 ```
 make
 ```
